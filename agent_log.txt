@@ -1,0 +1,158 @@
+2025-07-09 23:25:20,418 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:25:26,998 - Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that facilitates the coordination of Large Language Models (LLMs) using nodes as organizational units.
+2025-07-09 23:25:30,026 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:25:52,984 - Input: 34 + 12 / 2 | Output:  To solve this expression, we follow the order of operations (PEMDAS/BODMAS):
+
+First, perform the division:
+
+12 / 2 = 6
+
+Next, add the result to 34:
+
+34 + 6 = 40
+
+So, 34 + 12 / 2 equals 40.
+2025-07-09 23:25:55,052 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:25:56,245 - Input: translate bonjour le monde | Output:  Hello, world.
+2025-07-09 23:25:58,379 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:26:16,212 - Input: tell me a joke | Output:  Sure! Here's one for you: Why don't some animals play cards in the jungle?
+
+Because there are too many cheetahs! (Cheetahs can't say "cheat" so they can't catch on to the trick of cheating at cards.)
+2025-07-09 23:27:04,565 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:27:11,377 - Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that facilitates the management and coordination of Large Language Models (LLMs) using nodes as organizational units.
+2025-07-09 23:27:14,118 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:27:49,099 - Input: 34 + 12 / 2 | Output:  To solve the expression, we need to follow the order of operations (PEMDAS/BODMAS), which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).
+
+Given expression: 34 + 12 / 2
+
+First perform the division operation: 34 + 6
+
+Then add the numbers together: 40
+
+So, 34 + 12 / 2 = 40.
+2025-07-09 23:27:51,242 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:27:52,083 - Input: translate bonjour le monde | Output:  Hello, world
+2025-07-09 23:27:54,185 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:28:04,860 - Input: tell me a joke | Output:  Here's a light-hearted joke for you:
+
+Why don't scientists trust atoms?
+
+Because they make up everything! (Including humor!)
+2025-07-09 23:28:41,536 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:28:52,704 - Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that assists in coordinating Large Language Models (LLMs) by organizing them into nodes, effectively facilitating the management and interaction of these models.
+2025-07-09 23:28:55,612 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:32:47,664 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:32:55,472 - Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that assists in coordinating Large Language Models (LLMs) using nodes as a way to manage their interactions and processes.
+2025-07-09 23:32:58,509 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:33:32,777 - Input: 34 + 12 / 2 | Output:  To solve this, we follow the order of operations (PEMDAS/BODMAS), which means Parentheses, Exponents, Multiplication and Division (from left to right), and Addition and Subtraction (from left to right).
+
+So, in your equation:
+
+1. Divide 12 by 2: 12 / 2 = 6
+2. Then add the result to 34: 34 + 6 = 40
+
+The answer is 40.
+2025-07-09 23:33:35,043 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:33:35,597 - Input: translate bonjour le monde | Output:  Hello world
+2025-07-09 23:33:37,693 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:33:49,804 - Input: tell me a joke | Output:  Here's a classic one for you: Why don't scientists trust atoms? Because they make up everything! Hope this puts a smile on your face. If you need more, just let me know!
+2025-07-09 23:44:33,956 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:44:51,070 - Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that assists in managing Large Language Models (LLMs) by using nodes as an organizational structure. This means you can arrange and manage your interactions with the LLM more efficiently, similar to how nodes are used to connect different parts of a network or graph.
+2025-07-09 23:44:54,040 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:45:27,078 - Input: 34 + 12 / 2 | Output:  To solve the expression, we follow the order of operations (PEMDAS/BODMAS), which means parentheses, exponents, multiplication and division (from left to right), addition and subtraction (from left to right).
+
+In this case, we perform the division first: 12 / 2 = 6. Then, add that result to 34: 34 + 6 = 40. So the answer is 40.
+2025-07-09 23:45:29,469 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:45:30,849 - Input: translate bonjour le monde | Output:  Hello, world!
+2025-07-09 23:45:33,290 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:45:41,746 - Input: tell me a joke | Output:  Here's a joke for you: Why don't scientists trust atoms? Because they make up everything! Enjoy your day!
+2025-07-09 23:50:13,598 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:50:23,364 - Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that assists in coordinating Large Language Models (LLMs) by organizing them into interconnected nodes, facilitating a more efficient and structured workflow for the models.
+2025-07-09 23:50:26,171 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:51:01,525 - Input: 34 + 12 / 2 | Output:  To solve this expression, we should follow the order of operations (PEMDAS/BODMAS), which means exponents first, then parentheses, multiplication and division from left to right, and addition and subtraction from left to right.
+
+So in your expression:
+34 + 12 / 2
+
+First, perform the division operation:
+34 + 6 (because 12 divided by 2 equals 6)
+
+Then, do the addition:
+40
+
+So the result is 40.
+2025-07-09 23:51:03,622 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:51:04,475 - Input: translate bonjour le monde | Output:  Hello, world
+2025-07-09 23:51:06,628 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-09 23:51:22,039 - Input: tell me a joke | Output:  Here's a little joke for you:
+
+Why was the math book sad?
+Because it had too many problems.
+
+I hope this lightens up your day! If you need any other assistance or have more jokes, feel free to ask!
+2025-07-10 06:21:36,620 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:21:50,060 - Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that coordinates Large Language Models (LLMs) using nodes. This means it organizes the use of these models in a structured way, potentially improving efficiency and effectiveness in tasks that require multiple models for processing or generating responses.
+2025-07-10 06:21:52,386 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:22:13,869 - Input: 34 + 12 / 2 | Output:  First, let's do the division operation:
+
+12 / 2 = 6
+
+Now that we have the result of the division, we can proceed with the addition operation:
+
+34 + 6 = 40
+
+So, the solution to the expression 34 + 12 / 2 is 40.
+2025-07-10 06:22:15,671 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:22:16,402 - Input: translate bonjour le monde | Output:  Hello, world
+2025-07-10 06:22:18,058 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:22:25,059 - Input: tell me a joke | Output:  Sure, here's a classic one for you:
+
+Why don't scientists trust atoms?
+Because they make up everything!
+2025-07-10 06:26:17,196 - Routing to: summarizer
+2025-07-10 06:26:19,393 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:26:27,822 - [SUMMARIZER] Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that assists in managing Large Language Models (LLMs) by organizing them into nodes, simplifying the process of working with multiple language models within a single system.
+2025-07-10 06:26:27,823 - Routing to: math
+2025-07-10 06:26:29,652 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:26:48,567 - [MATH] Input: 34 + 12 / 2 | Output:  First, let's calculate the division operation:
+
+12 divided by 2 equals 6.
+
+Now, we have our second number, so let's add it to the original one:
+
+34 + 6 equals 40.
+
+So, the solution to your equation (34 + 12 / 2) is 40.
+2025-07-10 06:26:48,568 - Routing to: translator
+2025-07-10 06:26:50,428 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:26:51,390 - [TRANSLATOR] Input: translate bonjour le monde | Output:  Hello, world.
+2025-07-10 06:26:51,392 - Routing to: fallback
+2025-07-10 06:26:53,154 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:27:05,950 - [FALLBACK] Input: tell me a joke | Output:  Here's a joke for you!
+
+Why don't scientists trust atoms?
+
+Because they make up everything! (Everything sounds like another word for "anything," but in chemistry, an atom is the basic unit of matter.)
+2025-07-10 06:31:12,476 - Routing to: summarizer
+2025-07-10 06:31:14,728 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:31:22,885 - [SUMMARIZER] Input: summarize: LangGraph helps orchestrate LLMs with nodes. | Output:  LangGraph is a tool that assists in coordinating Large Language Models (LLMs) using nodes as an organizational structure, simplifying the management and interaction of these models.
+2025-07-10 06:31:22,886 - Routing to: math
+2025-07-10 06:31:25,329 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:31:51,372 - [MATH] Input: 34 + 12 / 2 | Output:  To solve the expression, we should follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).
+
+Let's apply that to your problem:
+
+1. First, calculate the division: 12 / 2 = 6
+2. Then add the result to 34: 34 + 6 = 40
+
+So, the solution is 40.
+2025-07-10 06:31:51,376 - Routing to: translator
+2025-07-10 06:31:53,161 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:31:54,170 - [TRANSLATOR] Input: translate bonjour le monde | Output:  Hello, world!
+2025-07-10 06:31:54,173 - Routing to: fallback
+2025-07-10 06:31:55,904 - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-10 06:32:06,082 - [FALLBACK] Input: tell me a joke | Output:  Sure! Here's a joke for you:
+
+Why don't scientists trust atoms?
+
+Because they make up everything! Including jokesters like me. Have a great day!
